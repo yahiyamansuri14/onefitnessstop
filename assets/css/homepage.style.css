@@ -86,7 +86,7 @@ li > a {
 }
 
 .custom-height{
-    height:100vh !important;
+    height:400px !important;
 }
 
 .carousel-item {
@@ -422,7 +422,9 @@ li > a {
         z-index: 10;
         box-shadow: 0 1px 10px 0 rgb(0 0 0 / 19% );
     }
-
+    .custom-height{
+        height:90VH !important;
+    }
     .hamburger {
         color: white;
         font-size: 24px;
@@ -523,7 +525,9 @@ li > a {
         z-index: 10;
         box-shadow: 0 1px 10px 0 rgb(0 0 0 / 19% );
     }
-
+    .custom-height{
+        height:90VW !important;
+    }
     .hamburger {
         color: white;
         font-size: 24px;
