@@ -489,7 +489,9 @@ li > a {
         cursor: pointer;
         height: 300px;
         width: 100vw;
-        margin: 10px;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+        margin-bottom: 10px !important;
         position: relative;
         overflow: hidden;
         transform:translateZ(0);
