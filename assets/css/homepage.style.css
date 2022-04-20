@@ -160,7 +160,10 @@ li > a {
     padding: 5px;
 }
 
-
+.logo-icons-class {
+    font-size: 28px;
+    padding: 15px;
+}
 /* icon container styels ends abvoe */
 
 /* summary container styles starts below */
